@@ -33,11 +33,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.main.Main" />
-      <module name="MavenSpringProject" />
+      <module name="Week2Exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -52,6 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1648028155369</updated>
       <workItem from="1648028156531" duration="5572000" />
+      <workItem from="1648034820545" duration="1911000" />
+      <workItem from="1648050085070" duration="38000" />
     </task>
     <servers />
   </component>

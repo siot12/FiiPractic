@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MavenSpringProject" />
+        <module name="Week2Exercise" />
       </profile>
     </annotationProcessing>
   </component>
